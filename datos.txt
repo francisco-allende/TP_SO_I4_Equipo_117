@@ -1,0 +1,28 @@
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+El color es Blue
+
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+El color es Yellow
+
+C- ¿Qué color de fondo tiene su página en el MASTER?
+el color es Blue
+
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+Quedo el favicon de beta (carita enojada)
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+si, beta y gamma
+
+F- ¿Qué problemas surgieron?
+al momento de pushear surgio un conflicto de commit, tenias que hacer primero git pull y luego el push
+
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+podriamos actualizarlo primero y luego pushear , eso haria que surja un conflicto en la lineas que se editaron y si queremos arreglarlo tendriamos que cambiarlo manualmente. 
+
+H- ¿Qué sucede si cada uno utiliza el push -f?
+quedaria el push de gamma y los cambios de alfa y beta no se realizarian.
+
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+utilizar la solucion que prestamos en la pregunta g.
